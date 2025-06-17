@@ -1,4 +1,4 @@
-# VStar – Procesamiento de Texto en Imágenes con Modelos Multimodales
+# VStar – Visual Search guide 
 
 Este repositorio contiene el desarrollo del proyecto **VStar**, realizado en el marco del curso **Aplicaciones de Data Science**. VStar es un modelo diseñado para **entender y responder preguntas basadas en imágenes**, combinando visión por computadora y procesamiento de lenguaje natural.
 
