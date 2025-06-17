@@ -1,0 +1,6 @@
+torch>=2.0.0
+torch_xla  
+qwen-vl-utils[decord]
+git+https://github.com/huggingface/transformers.git@9985d06add07a4cc691dc54a7e34f54205c04d40
+autoawq>=0.1.8
+torchrl
